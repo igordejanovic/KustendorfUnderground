@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">NFCDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_nfclauncher_activty">Kustendorf Underground</string>
+    <string name="hello">Who dares to wake me up? Who are you trying to set free</string>
+    <string name="edit_message"></string>
+    <string name="button_echo">Open</string>
+</resources>
